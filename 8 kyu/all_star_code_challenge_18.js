@@ -22,6 +22,8 @@ The second string argument will always be of length 1 */
 // Answer
 function strCount(str, letter) {
   return str.split("").filter((char) => char === letter).length;
+  // or
+  // return str.split(letter).length-1
 }
 
 strCount("Hello", "o");
