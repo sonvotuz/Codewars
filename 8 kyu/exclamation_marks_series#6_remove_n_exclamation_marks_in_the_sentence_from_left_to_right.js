@@ -14,9 +14,9 @@ remove("!!!Hi !!hi!!! !hi",5) === "Hi hi!!! !hi"
 remove("!!!Hi !!hi!!! !hi",100) === "Hi hi hi" */
 
 // PREP
-// Parameter
-// Return
-// Example
+// Parameter: string
+// Return: string with n exclamation removed
+// Example: "!!!Hi !!hi!!! !hi",5 => "Hi hi!!! !hi"
 
 // Answer
 function remove(s, n) {
