@@ -10,6 +10,7 @@ So, you need to check if there is gold in the bucket, and if so, return True/tru
 // Answer
 function checkTheBucket(bucket) {
   return bucket.some((el) => el === "gold");
+  // alternative way: bucket.includes('gold')
 }
 
 checkTheBucket(["stone", "stone", "stone", "stone", "stone"]);
