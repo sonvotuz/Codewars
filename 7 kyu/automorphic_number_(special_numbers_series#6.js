@@ -51,6 +51,7 @@ function automorphic(n) {
     n.toString()
     ? "Automorphic"
     : "Not!!";
+  // alternative way: can use endsWith() for string to quickly solve this problem
 }
 
 automorphic(76);
