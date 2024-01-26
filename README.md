@@ -3,11 +3,11 @@ Coding Challenges &amp; Solutions
 
 ![Codewars](https://github.r2v.ch/codewars?user=vnsonvo&name=true&top_languages=true&stroke=%23BB432C)
 
-This repository stored codewars challenges (kata). I try to complete at least 1 kata each day.
+This repository stored codewars challenges (kata).
 
 ## How It's Made:
 
-**Tech used:** mostly Javascript
+**Tech used:** mostly Javascript, Go
 
 Be a better problem solver day by day.
 
