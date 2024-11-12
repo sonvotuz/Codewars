@@ -7,7 +7,7 @@ This repository stored codewars challenges (kata).
 
 ## How It's Made:
 
-**Tech used:** mostly Javascript, Go
+**Tech used:** mostly Python, C++, Javascript
 
 Be a better problem solver day by day.
 
